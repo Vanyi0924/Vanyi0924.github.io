@@ -27,7 +27,7 @@ function formatPeriod(str) {
   }
 }
 
-const SYMBOL = 'bchusdt';
+const SYMBOL = 'btcusdt';
 
 // 固定为 300 条数据
 
