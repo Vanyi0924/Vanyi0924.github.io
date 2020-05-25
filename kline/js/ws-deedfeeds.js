@@ -1,5 +1,6 @@
 
-const wssUrl = "wss://api.hadax.com/ws"
+// const wssUrl = "wss://api.hadax.com/ws"
+const wssUrl = "wss://api.huobiasia.vip/ws"
 const pako = window.pako
 // 'm1','h1', 'd1', 'w1', 'M1'
 // 1min, 5min, 15min, 30min, 60min, 4hour, 1day, 1mon, 1week, 1year 
