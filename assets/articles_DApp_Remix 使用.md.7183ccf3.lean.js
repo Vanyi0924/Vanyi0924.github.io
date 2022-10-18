@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as a,a as o}from"./app.19505eb6.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/DApp/Remix \u4F7F\u7528.md"}'),n={name:"articles/DApp/Remix \u4F7F\u7528.md"},r=o("",4),l=[r];function t(p,i,c,d,_,m){return a(),s("div",null,l)}const C=e(n,[["render",t]]);export{A as __pageData,C as default};

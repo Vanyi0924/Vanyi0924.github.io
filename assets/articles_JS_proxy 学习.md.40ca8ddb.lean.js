@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a as r}from"./app.cb733efe.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/JS/proxy \u5B66\u4E60.md"}'),c={name:"articles/JS/proxy \u5B66\u4E60.md"},a=r("",4),_=[a];function d(p,n,s,i,l,x){return t(),o("div",null,_)}const P=e(c,[["render",d]]);export{y as __pageData,P as default};
